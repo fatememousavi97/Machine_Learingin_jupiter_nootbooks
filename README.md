@@ -1,2 +1,2 @@
-# Machine_Learning_jupiter_notebooks
+# Machine_Learning_jupyter_notebooks
 This is a Machine Learning tutorial for beginners step by step repository
